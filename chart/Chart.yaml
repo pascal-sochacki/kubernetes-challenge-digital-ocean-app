@@ -3,4 +3,4 @@ name: chart
 description: A Helm chart for the DigitalOcean Kubernetes Challenge
 type: application
 version: 0.1.0
-appVersion: 0.0.3-SNAPSHOT
+appVersion: 0.0.2-SNAPSHOT
